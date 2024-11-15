@@ -89,3 +89,17 @@ npm run dev
 2. The **front-end** will be available at `http://localhost:3000`.
 
 Open your browser and go to `http://localhost:3000` to use the application.
+
+## Tips
+
+### 1. Wait for the Back-End to Initialize
+Make sure the back-end is fully initialized before interacting with the application. You should see the message **"Application startup complete"** in the back-end terminal before asking a question.
+
+<img src="readme_tips/Wait_for_BACK_to_load.png" alt="Wait for Back-End Initialization" width="600">
+
+---
+
+### 2. Example Questions in the Navigator Console
+You can find examples of questions directly in the console of your browser (front-end).
+
+<img src="readme_tips/Questions_examples_navigator_console.png" alt="Examples of Questions in Navigator Console" width="600">
