@@ -12,6 +12,7 @@ Follow the steps below to set up and run the project.
 ## Prerequisites
 - **Python**: Version 3.9 or higher.
 - **Node.js**: Version 16 or higher.
+- **NVIDIA GPU**
 
 ---
 
@@ -20,7 +21,7 @@ Follow the steps below to set up and run the project.
 ### 1. Clone the Repository
 Clone the project repository to your local machine:
 ```bash
-git clone <repository-url>
+git clone https://github.com/CorentinPRADIE/RAG-DEPLOYER.git
 cd RAG-DEPLOYER
 ```
 
